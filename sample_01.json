@@ -1,0 +1,26 @@
+{
+  "file_name": "sample_01.json",
+  "data": [
+    {
+      "id": 1,
+      "section_id": "10",
+      "sample_id": "0",
+      "source_path": "test/test_1/test.png",
+      "created_by": "999"
+    },
+    {
+      "id": 2,
+      "section_id": "13",
+      "sample_id": "1",
+      "source_path": "test/test_2/test.png",
+      "created_by": "999"
+    },
+    {
+      "id": 3,
+      "section_id": "15",
+      "sample_id": "2",
+      "source_path": "test/test_3/test.png",
+      "created_by": "999"
+    }
+  ]
+}
